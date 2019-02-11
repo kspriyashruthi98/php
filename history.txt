@@ -1,0 +1,72 @@
+
+How many questions attended : 3
+Questions you received:9+19=?,7+13=?,8+20=?
+answers given by you:28,20,23
+correctanswers:28,20,28
+score: 2
+
+How many questions attended : 2
+Questions received by you:8+17=?,9+12=?
+Answers given by you:24,21
+correctanswers:25,21
+Total score: 1
+
+How many questions attended : 3
+Questions received by you:7+13=?,6+17=?,9+12=?
+Answers given by you:20,23,21
+Correct answers:20,23,21
+Total score: 3
+2
+How many questions attended : 
+Questions received by you:
+Answers given by you:
+Correct answers:
+Total score: 0
+
+How many questions attended : 1
+Questions received by you:7+13=?
+Answers given by you:1212
+Correct answers:20
+Total score: 0
+
+How many questions attended : 1
+Questions received by you:10+11=?
+Answers given by you:21
+Correct answers:21
+Total score: 1
+
+How many questions attended : 4
+Questions received by you:7+20=?,8+11=?,10+13=?,7+10=?
+Answers given by you:27,19,23,17
+Correct answers:27,19,23,17
+Total score: 4
+
+How many questions attended : 2
+Questions received by you:9+11=?,9+18=?
+Answers given by you:20,27
+Correct answers:20,27
+Total score: 2
+
+How many questions attended : 2
+Questions received by you:9+11=?,9+18=?
+Answers given by you:20,27
+Correct answers:20,27
+Total score: 2
+
+How many questions attended : 2
+Questions received by you:9+11=?,9+18=?
+Answers given by you:20,27
+Correct answers:20,27
+Total score: 2
+
+How many questions attended : 1
+Questions received by you:5+19=?
+Answers given by you:24
+Correct answers:24
+Total score: 1
+
+How many questions attended : 1
+Questions received by you:9+17=?
+Answers given by you:26
+Correct answers:26
+Total score: 1
